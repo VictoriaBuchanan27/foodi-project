@@ -1,0 +1,25 @@
+.logo-picture {
+  margin: 20%;
+  align-self: center;
+  padding-left: 25%;
+  margin-bottom: 1%;
+}
+.form-group {
+ width: 50%;
+ margin-left: 30%;
+
+}
+.button {
+  margin-left:50%;
+  padding-bottom: 5%;
+}
+.email-address{
+margin-left:21%;
+}
+.icons{
+  margin-left:40%;
+}
+.footer{
+  background-color: yellowgreen;
+  height:80px;
+}
