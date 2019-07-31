@@ -21,8 +21,9 @@ export default class Home extends React.Component {
                 <>
               <h1>Welcome to Foodi</h1>
               <h2> A place where food lovers can post pictures that never go out of TASTE!</h2>
-              <h3> Please Sign Up or Login to Foodi Website.</h3>
+              <h3> Please Sign Up or Login to Foodi the Website.</h3>
               <Logo/>
+              
               </>
               )
             }
