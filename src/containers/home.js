@@ -16,7 +16,7 @@ export default class Home extends React.Component {
                 </>
               )
             } else {
-              return <h2>You are not logged in.</h2>
+              return <h2>Please Login to Foodi Website.</h2>
             }
           }
         }

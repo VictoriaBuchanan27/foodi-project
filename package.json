@@ -32,5 +32,13 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaBuchanan27/foodi-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VictoriaBuchanan27/foodi-project/issues"
+  },
+  "homepage": "https://github.com/VictoriaBuchanan27/foodi-project#readme"
 }
